@@ -29,17 +29,7 @@
                 "active": "active.png"
             }
         },
-        "options": [
-            {
-                "name": "partner",
-                "desc": "partner server url"
-            }
-        ]
+   
     },
-    "options": [
-        {
-            "name": "partner",
-            "desc": "partner server url"
-        }
-    ]
+    
 }
