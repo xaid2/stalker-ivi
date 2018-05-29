@@ -1,7 +1,7 @@
 {
-    "name": "ivi.ru",
-    "date": "2017.10.19",
-    "version": "1.1.4",
+    "name": "ivi",
+    "date": "2018.5.29",
+    "version": "1.1.4fiasko",
     "description": "IVI films.",
     "author": {
         "name": "DeltaFixedIVIapp"
@@ -28,8 +28,6 @@
                 "normal": "normal.png",
                 "active": "active.png"
             }
-        },
-   
-    },
-    
+        }
+    }
 }
