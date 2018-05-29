@@ -1,8 +1,8 @@
 {
     "name": "ivi.ru",
     "date": "2017.10.19",
-    "version": "1.1.2",
-    "description": "The first Russian free video provider with a licensed full-length content.",
+    "version": "1.1.4",
+    "description": "IVI films.",
     "author": {
         "name": "DeltaFixedIVIapp"
     },
@@ -16,7 +16,7 @@
         "backgroundColor": "#e60040",
         "name": "Ivi",
         "legacy": true,
-        "description": "The first Russian free video provider with a licensed full-length content.",
+        "description": "licensed full-length content ivi player.",
         "icons": {
             "paths": {
                 "480": "img/480/",
