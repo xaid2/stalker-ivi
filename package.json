@@ -4,11 +4,11 @@
     "version": "1.1.2",
     "description": "The first Russian free video provider with a licensed full-length content.",
     "author": {
-        "name": "StalkerApps"
+        "name": "DeltaFixedIVIapp"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/StalkerApps/iviru.git"
+        "url": "https://github.com/xaid2/stalker-ivi.git"
     },
     "config": {
         "type": "app",
